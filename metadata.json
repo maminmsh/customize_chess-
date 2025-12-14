@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Generalized Custom Chess",
+  "description": "A customizable chess application supporting variable board sizes (5x5 to 10x10), custom piece placement, and AI opponents powered by Gemini.",
+  "requestFramePermissions": []
+}
